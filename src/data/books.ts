@@ -459,7 +459,7 @@ export const books: Book[] = [
     pages: 585,
     year: 2010,
     description: "Get enriched with the foundation of AI and ML under the Mathematical world.",
-    downloadLink: "",
+    downloadLink: "https://github.com/avinash201199/Free-programming-books/tree/main/Aritificial Intelligence/AIML.pdf",
     level: "Beginner",
     tags: ["AI", "Future", "Statistics", "Probability"]
   },
