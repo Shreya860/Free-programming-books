@@ -14,6 +14,21 @@ export interface Book {
 }
 
 export const books: Book[] = [
+  // C# and Dot Net Books
+  {
+    id: "c#&.net-1",
+    title: "Pro C# 10 with .NET 6",
+    author: "Andrew Troelsen, Phil Japikse",
+    category: "C# and .NET",
+    language: "C#",
+    pages: 1680,
+    year: 2022,
+    description: "A user-friendly textbook for C3 and .NET learners.",
+    downloadLink: "https://github.com/avinash201199/Free-programming-books/tree/main/C# and Dot Net/C# and DOT NET",
+    level: "Beginner",
+    tags: ["C#", "Dot Net", "Beginner-Friendly"],
+    featured: true
+  },
   // Python Books
   {
     id: "python-1",
@@ -775,6 +790,7 @@ export const books: Book[] = [
 ];
 
 export const categories = [
+  "C# and Dot Net",
   "Python Programming",
   "Java Programming",
   "Web Development",
@@ -796,6 +812,7 @@ export const categories = [
 ];
 
 export const languages = [
+  "C# & .NET",
   "Python",
   "Java",
   "JavaScript",
