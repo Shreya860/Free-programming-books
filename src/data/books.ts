@@ -56,6 +56,21 @@ export const books: Book[] = [
     level: "Intermediate",
     tags: ["Python", "Data Analysis", "Pandas", "NumPy"]
   },
+
+  // JavaScript books
+  {
+    id : "JavaScript Notes for Professionals",
+    title: "Notes for JavaScript",
+    author: "GoalKicker.com",
+    category: "JavaScript Programming",
+    language: "JavaScript",
+    pages: 510,
+    year: 2016,
+    description: "This book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow.",
+    downloadLink: "https://github.com/avinash201199/Free-programming-books/tree/main/JavaScript",
+    level: "All Levels",
+    tags: ["JavaScript", "Beginner", "Intermediate", "Advanced"]
+  },
   {
     id: "python-4",
     title: "Learning Python",
@@ -507,6 +522,8 @@ export const books: Book[] = [
     level: "Beginner",
     tags: ["C", "Modern", "Comprehensive"]
   },
+
+
 
   // C++ Programming
   {
