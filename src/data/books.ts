@@ -756,6 +756,20 @@ export const books: Book[] = [
   level: "Advanced",
   tags: ["DBMS", "Databases", "SQL", "Data Management"],
   },
+  {
+    id: "dbms-4",
+    title: "Database System Concepts (6th Edition)",
+    author: "Abraham Silberschatz, Henry F. Korth, S. Sudarshan",
+    category: "Database Management",
+    language: "General",
+    pages: 1376,
+    year: 2010,
+    description: "A foundational textbook that explains the fundamental concepts of database management systems (DBMS) in an intuitive way",
+    downloadLink: "https://github.com/avinash201199/Free-programming-books/tree/main/DBMS",
+    level: "Advanced",
+    tags: ["DBMS", "Databases", "SQL", "Database Management"],
+    featured: true
+    },
    // Operating System
   {
     id: "operating-system-1",
