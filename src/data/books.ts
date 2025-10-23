@@ -489,6 +489,19 @@ export const books: Book[] = [
     level: "Beginner",
     tags: ["AI", "Future", "Philosophy", "Society"]
   },
+  {
+    id: "ai-3",
+    title: "Artificial Intelligence",
+    author: "Elaine Rich, Kevin Knight, Shivashankar B Nair ",
+    category: "Artificial Intelligence",
+    language: "General",
+    pages: 585,
+    year: 2010,
+    description: "Get enriched with the foundation of AI and ML under the Mathematical world.",
+    downloadLink: "https://github.com/avinash201199/Free-programming-books/tree/main/Aritificial Intelligence/AIML.pdf",
+    level: "Beginner",
+    tags: ["AI", "Future", "Statistics", "Probability"]
+  },
 
   // Data Science
   {
